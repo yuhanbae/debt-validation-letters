@@ -92,3 +92,9 @@ debt), and the certified-mail procedure with receipt handling.
 
 General information and templates, not legal advice. For lawsuits, garnishment
 defense, or bankruptcy questions, consult a licensed attorney.
+## Free letter generator
+
+Don't want to copy-paste? A free browser tool generates both letters for you —
+private, nothing leaves your device, includes the 30-day deadline calculator:
+
+**https://debt-validation-letter-generator-blue.vercel.app**
