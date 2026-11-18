@@ -98,3 +98,12 @@ Don't want to copy-paste? A free browser tool generates both letters for you —
 private, nothing leaves your device, includes the 30-day deadline calculator:
 
 **https://debt-validation-letter-generator-blue.vercel.app**
+
+---
+
+## Get the full letter pack (instant delivery, no account needed)
+
+The two templates here are free samples. The complete **Debt Validation Letter Pack 2026** (6 chapters, FDCPA/FCRA cites, certified-mail procedure, three-bureau strategy, CFPB/AG/small-claims escalation):
+
+- **Telegram Stars (no signup):** https://t.me/supixxxbot → pick "Debt Validation Letter Pack" → 900 ⭐ (~$9)
+- **Card/PayPal (Gumroad):** https://yuhanbreeze.gumroad.com/l/xvpawl
